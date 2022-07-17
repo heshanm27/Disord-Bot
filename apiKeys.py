@@ -1,0 +1,3 @@
+BotApiToken = 'OTk4MjE0MDA1Nzg3MjA5NzU4.GfL7at.KKxqopaVLf_cr3PDnUO3vaKpisLy0hd3JPfeBE'
+JokesApiKey = 'c2d95bfdbamshba1992f72e0568fp142b0bjsn4c9d64683aa4'
+jokesAuthorizekey='ooKBTyR87wWo'
