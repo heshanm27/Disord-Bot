@@ -60,4 +60,4 @@ async def on_ready():
     print(".........................")
 
 
-bot.run('OTk4MjE0MDA1Nzg3MjA5NzU4.GGsWiI.UNvdUGLR5OnpeU8VJpJOZhVzp8AEYdCm_E6_24')
+bot.run()
